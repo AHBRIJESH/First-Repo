@@ -1,3 +1,2 @@
 # First-Repo
-MY NAME IS BRIJEESH
-IT's JUST SIMPLY GOOD
+This is the Model Repositori
