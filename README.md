@@ -1,3 +1,2 @@
 # First-Repo
-MY NAME IS BRIJEESH
-IT's JUST SIMPLY GOOD
+In this repository I am going to post various regression and classification algorithms in a very simple manner so that even beginners would find it easy to learn and understand the concepts in breef.
