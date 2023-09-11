@@ -1,2 +1,3 @@
 # First-Repo
-This is a sample repository\n (Sample)
+This is a sample repository
+(sample)
