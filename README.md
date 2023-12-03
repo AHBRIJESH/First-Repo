@@ -26,20 +26,14 @@ The `naive_bayes_classifier.py` script contains the implementation of the Naive 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/naive-bayes-exam-prediction.git
-   cd naive-bayes-exam-prediction
+   git clone https://github.com/AHBRIJESH/Naive_Bayes_Algorithm.git
+   Naive_Bayes_Algorithm.git
    ```
 
-2. Install the required dependencies:
+2. Run the `naive_bayes_classifier.py` script to train the model and make predictions:
 
    ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the `naive_bayes_classifier.py` script to train the model and make predictions:
-
-   ```bash
-   python naive_bayes_classifier.py
+   python Model.py
    ```
 
 4. Explore the results and modify the parameters in the script to experiment with different scenarios.
