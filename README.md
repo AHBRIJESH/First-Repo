@@ -6,9 +6,9 @@ This repository contains a simple implementation of a Naive Bayes classifier to 
 
 - **Parameters Used:**
   - Hours of Study
-  - Previous Exam Scores
-  - Attendance Percentage
-  - Mock Test Performance
+  - Wakeup Time
+  - HandWriting
+  - Language Fluency
 
 - **Target Variable:**
   - Probability of Scoring Above 90
