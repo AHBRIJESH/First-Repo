@@ -1,6 +1,6 @@
 # Student Success Predictor using Naive Bayes
 
-![Naive Bayes](https://img.shields.io/badge/Implementation-Naive%20Bayes-brightgreen)
+![Naive Bayes](https://img.shields.io/badge/Implementation-Naive%20Bayes-green)
 
 Welcome to the Student Success Predictor project! This implementation utilizes Naive Bayes to estimate the probability of a student scoring above 90 in examinations based on various parameters such as hours of study, wakeup time, handwriting, and language fluency.
 
