@@ -30,8 +30,6 @@ Welcome to the Student Success Predictor project! This implementation utilizes N
 
 ## Project Structure
 
-- **/data**: Contains sample datasets for testing the model.
-- **/images**: Holds relevant images or plots generated during analysis.
 - **model.ipynb**: The main Jupyter Notebook for the Naive Bayes implementation.
 - **README.md**: The project's documentation.
 
