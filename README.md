@@ -1,4 +1,4 @@
-# Student Success Predictor using Naive Bayes
+# Academic Grade Predictor using Naive Bayes
 
 ![Naive Bayes](https://img.shields.io/badge/Implementation-Naive%20Bayes-darkgreen)
 
